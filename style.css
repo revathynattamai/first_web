@@ -1,32 +1,25 @@
 body {
     margin: 0;
 }
-        header{
-            width: 960px;
-            height: 60px;
-            background: #f7f7f7;
-            margin: auto;
-            border: solid 0px gray;
-            
-           
-        }
-        section{
-            width: 960px;
-            height: 1001px;
-            background: white;
-       
-            margin: auto;
-        }
-        footer{
-
-        }
-        .shadow{
-                        border-radius: 10px;
-            -moz-border-radius: 5px;
+header{
+    width: 960px;
+    height: 60px;
+    background: #f7f7f7;
+    margin: auto;
+    border: solid 0px gray;
+}
+section{
+    width: 960px;
+    height: 1001px;
+    background: white;
+    margin: auto;
+}
+.shadow{
+    border-radius: 10px;
+    -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
     -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
     -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
-        }
-        
+}
