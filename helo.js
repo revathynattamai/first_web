@@ -1,4 +1,3 @@
-function sayhello()
-{
-document.write("I want to see Ani baby")
+function sayhello() {
+    document.write("I want to see Ani baby");
 }
