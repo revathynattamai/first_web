@@ -1,24 +1,26 @@
 body {
-    margin: 0;
+    background-color:gray; 
+    margin: 10px ;
 }
 header{
-    width: 960px;
+    width: 1328px;
     height: 60px;
     background: #f7f7f7;
-    margin: auto;
-    border: solid 0px gray;
+    margin: 10px;
+    
 }
 section{
-    width: 960px;
-    height: 1001px;
+    width: 1328px;
+    height: 500px;
     background: white;
-    margin: auto;
+    margin: 10px;
 }
 footer{
-    width: 960px;
+    width: 1328px;
     height: 60px;
-    background: lightpink;
-    margin: auto;
+    background: white;
+    margin: 10px;
+    padding:10px ;
 }
 .shadow{
     border-radius: 10px;
