@@ -1,5 +1,5 @@
 body {
-    background-color:gray; 
+    background-color: #e4e4e4; 
     margin:0px ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
@@ -8,8 +8,7 @@ header{
     /*height: 50px;*/
     background: #f7f7f7;
     /*margin: 10px;*/
-   padding: 10px;
-     
+   padding: 10px;    
 }
 section{
     width: 100%;
@@ -17,8 +16,6 @@ section{
     background: white;
     margin-top : 10px;
     padding: 10px;
-
-   
 }
 footer{
     width: 100%;
@@ -35,15 +32,24 @@ footer{
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
 }
 .rital{
-    text-align: right;
+    /*text-align: right;*/
+    float: right;
 }
 .rital a{
     text-decoration: none;
-    color: red;
-    
+    color: red;  
+}
+.leftal{
+    /*text-align: left;*/
+    float: left;
+}
+.leftal h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif';
+}
+.clear{
+    clear:both;
 }
 .container{
     width: 960px;
     margin: auto;
-
 }
