@@ -77,3 +77,7 @@ footer{
     width: 250px;
     border-left: solid 1px #ccc;
 }
+
+.black{
+    color: orangered !important;
+}
